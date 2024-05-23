@@ -1,1 +1,1 @@
-# mini-project-repo
+# landing-page
